@@ -2,8 +2,14 @@ import Link from "next/link";
 import { Button } from "./ui/button";
 import { createClient } from "@/lib/supabase/server";
 import { LogoutButton } from "./logout-button";
+import { hasEnvVars } from "@/lib/utils";
 
 export async function AuthButton() {
+  // If Supabase is not configured, don't show auth buttons
+  if (!hasEnvVars) {
+    return null;
+  }
+
   const supabase = await createClient();
 
   // You can also use getUser() which will be slower.
