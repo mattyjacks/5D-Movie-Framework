@@ -38,33 +38,34 @@ export function DIUHero() {
           <h2 className="text-3xl font-bold mb-4 text-white">The Story: Agent Jack Morrison</h2>
           <div className="space-y-4 text-gray-300">
             <p className="text-lg leading-relaxed">
-              <span className="font-semibold text-cyan-400">You are Jack Morrison</span>, a software engineer 
+              <span className="font-semibold text-cyan-400">You are Jack Morrison</span>, a neural architect 
               in Detroit's automotive renaissance. But tonight, reality fractures. A message appears from an 
-              unknown sender: <em>"Sam knew. Check Crimewave scene 47. -DIU"</em>
+              unknown sender: <em>"They found the rift. The DIU protocol is active. Get to the Nexus Tower. -SENTINEL"</em>
             </p>
             <p className="text-lg leading-relaxed">
-              <span className="font-semibold text-red-400">Reality splits.</span> Sam Raimi's Detroit becomes 
-              a nexus where Marvel and DC universes converge. Spider-Man swings between Renaissance Center 
-              towers. Batman monitors temporal anomalies from Wayne Enterprises. Doctor Strange senses the 
-              disturbance. You're at the center of it all.
+              <span className="font-semibold text-red-400">Reality splits.</span> Detroit becomes a convergence 
+              point where parallel dimensions bleed through. The <strong>Chrono Guardians</strong> appear in 
+              Reality-Alpha, beings who can manipulate time itself. In Reality-Beta, the <strong>Shadow Collective</strong> 
+              emerges - entities who exist between dimensions. You're at the center of it all.
             </p>
             <p className="text-lg leading-relaxed">
               The <span className="font-semibold text-green-400">Detroit Interactive Universe</span> was never 
-              a movie - it was a covert operation disguised as pre-production. The goal: create sentient AI 
-              piloting temporal avatars. Cars that think. Machines that remember. And you were the test subject.
+              a technology company - it was a covert operation to build the Nexus Engine: sentient AI piloting 
+              temporal avatars across dimensions. Cars that think. Machines that remember. And you were the prototype.
             </p>
             <p className="text-lg leading-relaxed">
               <span className="font-semibold text-amber-400">Memory Fragment:</span> 2018. Dr. Elena Vasquez 
-              and Dr. Marcus Chen show you a robot. "Sam Raimi embedded activation codes in Crimewave. You 
-              decoded them, Jack. Now you need to forget... until the right moment." They inject something. 
-              The world goes dark.
+              and Director Kaius Renn show you a crystalline core. "The Founder embedded the consciousness codes 
+              in 1985. You decoded them, Jack. Now you need to forget... until the convergence begins." They 
+              activate something. The world goes dark.
             </p>
             <p className="text-lg leading-relaxed">
               <span className="font-semibold text-purple-400">The Awakening:</span> You remember. You're not 
-              just a software engineer. You're <strong>Agent Jack Morrison</strong>, recruited by Telepath 
-              Global in 2015. Sam Raimi was your mentor. The mission: Create a neural network spanning multiple 
-              realities to prevent a multiversal collapse predicted for 2026. The sentient cars were phase one. 
-              <strong>Phase two begins now.</strong> You are the Detroit Interactive Universe. You always were.
+              just a neural architect. You're <strong>Agent Jack Morrison</strong>, recruited by Telepath 
+              Global in 2015. <strong>The Founder</strong> - Detroit's hidden visionary - discovered the dimensional 
+              rifts. The mission: Create a neural network spanning multiple realities to prevent a dimensional 
+              collapse predicted for 2026. The sentient vehicles were phase one. <strong>Phase two begins now.</strong> 
+              You are the Detroit Interactive Universe. You always were.
             </p>
           </div>
         </div>

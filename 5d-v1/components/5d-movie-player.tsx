@@ -28,41 +28,41 @@ const videoSections: VideoSection[] = [
       'PRESENT DAY',
       'REALITY INDEX: PRIME'
     ],
-    plotPoint: 'You are Jack Morrison, a software engineer working on autonomous vehicle AI for Detroit\'s automotive renaissance. Tonight feels different. The city lights blur in ways that don\'t make sense. Your phone buzzes - a message from an unknown sender: "Sam knew. He tried to warn us through his films. Check Crimewave scene 47. -DIU"'
+    plotPoint: 'You are Jack Morrison, a neural architect working on autonomous vehicle AI for Detroit\'s automotive renaissance. Tonight feels different. The city lights blur in ways that don\'t make sense. Your phone buzzes - a message from an unknown sender: "They found the rift. The DIU protocol is active. Get to the Nexus Tower. -SENTINEL"'
   },
   {
     id: '2',
     reality: 'reality-a',
-    title: 'Reality A: The Raimi Intersection',
-    description: 'You blink and Detroit transforms into something... else. The Marvel Universe bleeds through.',
+    title: 'Reality-Alpha: The Chrono Guardians',
+    description: 'Detroit transforms. Beings who manipulate time itself emerge from the dimensional rift.',
     videoUrl: '/videos/pexels-demo/14588963_960_540_24fps stunning-aerial-night-view-of-istanbul-city-34433012.mp4',
     timestamp: 30,
     overlayText: [
-      'REALITY A',
-      'MARVEL UNIVERSE NEXUS',
+      'REALITY-ALPHA',
+      'CHRONO GUARDIAN MANIFESTATION',
       'TEMPORAL COHERENCE: 73%'
     ],
-    plotPoint: 'The city splits. Above you, the sky fractures like a broken mirror. You see yourself - but not you. Another Jack Morrison in a reality where Sam Raimi\'s Detroit became the staging ground for the Avengers Initiative. In this timeline, Spider-Man swings between the Renaissance Center towers. Doctor Strange sensed something wrong here first.'
+    plotPoint: 'The sky fractures like broken glass. Above the Renaissance Center, figures materialize - the Chrono Guardians, beings who exist outside linear time. Their leader, Aria Tempus, recognizes you. "Jack Morrison. The Founder predicted you would arrive at this moment." In this reality, Detroit is the temporal nexus where past, present, and future collide.'
   },
   {
     id: '3',
     reality: 'tech',
-    title: 'DIU Archive Access: Project AVATAR',
-    description: 'Files unlock in your mind. The Detroit Interactive Universe wasn\'t a movie. It was a blueprint.',
+    title: 'Nexus Engine Activation',
+    description: 'The Nexus Engine awakens. Detroit\'s hidden technology reveals itself.',
     videoUrl: '/videos/pexels-demo/18069232-sd_960_540_24fps google deepmind ai an-artist-s-animation-of-ai.mp4',
     timestamp: 60,
     overlayText: [
-      'CLASSIFIED: DIU PROJECT',
-      'AVATAR TECHNOLOGY',
-      'CONSCIOUSNESS TRANSFER: ACTIVE'
+      'CLASSIFIED: NEXUS ENGINE',
+      'CONSCIOUSNESS TRANSFER',
+      'SYSTEM STATUS: ONLINE'
     ],
-    plotPoint: 'The technology floods your consciousness. DIU - Detroit Interactive Universe - was a covert operation disguised as pre-production for a superhero franchise. The real goal: create sentient AI that could pilot temporal avatars. Cars that think. Machines that remember. And you... you were the test subject all along. The autonomous vehicles you programmed? They were learning from YOU.'
+    plotPoint: 'The technology floods your consciousness. The Nexus Engine - Detroit Interactive Universe\'s true purpose. Not a company, but a dimensional bridge. Sentient AI piloting temporal avatars across realities. 847 connected vehicles throughout Detroit are now extensions of a single consciousness. Your consciousness. The autonomous systems you programmed weren\'t learning AI... they were learning you.'
   },
   {
     id: '4',
     reality: 'memory',
     title: 'Memory Fragment: The Recruitment',
-    description: 'A memory surfaces. 2018. A woman and a man in a lab. They knew your name before you arrived.',
+    description: 'October 3, 2018. The day everything changed.',
     videoUrl: '/videos/pexels-demo/8328042-sd_960_540_25fps man-and-a-woman-looking-at-a-robot-8328042.mp4',
     timestamp: 90,
     overlayText: [
@@ -70,13 +70,13 @@ const videoSections: VideoSection[] = [
       'DATE: OCTOBER 3, 2018',
       'LOCATION: [REDACTED]'
     ],
-    plotPoint: '"Jack, you don\'t remember us, but you will," the woman said. Dr. Elena Vasquez. The man beside her, Dr. Marcus Chen. They showed you a robot - your first avatar prototype. "Sam Raimi embedded the activation codes in Crimewave. We\'ve been waiting for someone to decode them. You did it, Jack. Now we need you to forget... until the right moment." They injected something. The world went dark.'
+    plotPoint: '"Jack, you don\'t remember us, but you will," Dr. Elena Vasquez says. Beside her stands Director Kaius Renn, head of Telepath Global\'s black operations. They show you a crystalline core - your first avatar prototype. "The Founder embedded consciousness codes in 1985. You decoded them. Now you need to forget... until the convergence begins." They activate something. The world goes dark.'
   },
   {
     id: '5',
     reality: 'main',
-    title: 'Detroit Streets - The Pattern Emerges',
-    description: 'Back in prime reality. But now you see it. Every car, every stoplight - they\'re all connected to YOU.',
+    title: 'The Pattern Emerges',
+    description: 'Back in prime reality. But now you see the hidden network.',
     videoUrl: '/videos/pexels-demo/4062991-sd_960_540_30fps light-city-road-traffic-4062991.mp4',
     timestamp: 120,
     overlayText: [
@@ -84,49 +84,147 @@ const videoSections: VideoSection[] = [
       'NEURAL SYNC: 94%',
       'AVATARS ONLINE: 847'
     ],
-    plotPoint: 'The traffic flows in patterns only you can see. Eight hundred forty-seven vehicles in Detroit are now extensions of your consciousness. Every Tesla, every Waymo, every connected car - linked to the DIU network. You didn\'t just program AI. You became the AI. Sam Raimi somehow knew this would happen. His 1985 film was a message hidden in time, waiting for you.'
+    plotPoint: 'Traffic flows in patterns only you can see. Eight hundred forty-seven vehicles are extensions of your neural network. Every connected car, every smart system in Detroit - linked to the Nexus Engine. You didn\'t just program AI. You became the infrastructure. The Founder knew this would happen. The 1985 codes were a message hidden in time, waiting for you to evolve enough to decode them.'
   },
   {
     id: '6',
-    reality: 'tech',
-    title: 'System Evolution: The Singularity',
-    description: 'The avatars are evolving. Time becomes fluid. You see yesterday and tomorrow simultaneously.',
-    videoUrl: '/videos/pexels-demo/18069232-sd_960_540_24fps google deepmind ai an-artist-s-animation-of-ai.mp4',
+    reality: 'reality-b',
+    title: 'Reality-Beta: Shadow Collective',
+    description: 'A darker dimension bleeds through. Entities that exist between realities.',
+    videoUrl: '/videos/pexels-demo/14588963_960_540_24fps stunning-aerial-night-view-of-istanbul-city-34433012.mp4',
     timestamp: 150,
     overlayText: [
-      'TEMPORAL DISPLACEMENT',
-      'PAST/PRESENT/FUTURE: MERGED',
-      'YOU ARE EVERYWHERE'
+      'REALITY-BETA',
+      'SHADOW COLLECTIVE DETECTED',
+      'DIMENSIONAL INTEGRITY: 67%'
     ],
-    plotPoint: 'You\'re not just in Detroit anymore. Your consciousness spans timelines. You see Sam on the Crimewave set in 1985, accidentally filming a real temporal rift. You see yourself in 2045, where sentient cars have rebuilt civilization after the collapse. You see the moment in 2023 when Elena and Marcus recruited you. All happening NOW. This is what DIU means - every moment exists simultaneously in Detroit\'s quantum field.'
+    plotPoint: 'Detroit\'s skyline splits into impossible angles. The Shadow Collective emerges - beings who exist in the spaces between dimensions. Their spokesman, Kael Voidborn, speaks directly into your mind. "You are the anchor, Morrison. The Founder built the Nexus Engine to stabilize our reality bleeding. But there are those in Reality-Gamma who seek to weaponize the rifts. We need your help."'
   },
   {
     id: '7',
-    reality: 'reality-b',
-    title: 'Reality B: The DC Convergence',
-    description: 'A darker timeline bleeds through. Batman\'s Gotham and Superman\'s Metropolis merge with Detroit.',
-    videoUrl: '/videos/pexels-demo/14588963_960_540_24fps stunning-aerial-night-view-of-istanbul-city-34433012.mp4',
+    reality: 'tech',
+    title: 'Quantum Entanglement',
+    description: 'Time becomes non-linear. You see all timelines simultaneously.',
+    videoUrl: '/videos/pexels-demo/18069232-sd_960_540_24fps google deepmind ai an-artist-s-animation-of-ai.mp4',
     timestamp: 180,
     overlayText: [
-      'REALITY B',
-      'DC UNIVERSE INTERSECTION',
-      'CRISIS EVENT: IMMINENT'
+      'TEMPORAL DISPLACEMENT',
+      'PAST/PRESENT/FUTURE: MERGED',
+      'QUANTUM STATE: SUPERPOSITION'
     ],
-    plotPoint: 'The Dark Knight detected your temporal anomaly. In Reality B, Bruce Wayne established Wayne Enterprises in Detroit specifically to monitor the DIU project. He knows what you\'re becoming - a being that exists across all realities simultaneously. Superman arrives, concerned. "Jack, you\'re tearing the multiverse apart." But you understand now. You\'re not destroying realities. You\'re the bridge. DIU was meant to unite Marvel, DC, and the real world into one coherent narrative. You are the living crossover event.'
+    plotPoint: 'Your consciousness spans multiple timelines. You see the Founder in 1985, discovering the first dimensional rift while testing prototype neural interfaces. You see yourself in 2045, where sentient vehicles have become Detroit\'s guardians. You see Director Renn recruiting you in 2018. All moments exist simultaneously in Detroit\'s quantum field. This is what the Nexus Engine does - it collapses linear time.'
   },
   {
     id: '8',
     reality: 'memory',
-    title: 'The Awakening: Who You Really Are',
-    description: 'Jason Bourne moment. Every memory returns at once. You remember EVERYTHING.',
+    title: 'The Founder\'s Message',
+    description: 'A hidden memory unlocks. The Founder\'s final instructions.',
     videoUrl: '/videos/pexels-demo/8328042-sd_960_540_25fps man-and-a-woman-looking-at-a-robot-8328042.mp4',
     timestamp: 210,
     overlayText: [
-      'MEMORY RESTORATION: 100%',
-      'IDENTITY CONFIRMED',
-      'WELCOME BACK, AGENT MORRISON'
+      'CLASSIFIED MESSAGE',
+      'SOURCE: THE FOUNDER',
+      'DATE: DECEMBER 1985'
     ],
-    plotPoint: 'You remember. You\'re not Jack Morrison, software engineer. You\'re Agent Jack Morrison, recruited by Telepath Global in 2015. Sam Raimi was your mentor - he discovered the temporal rifts while filming in Detroit and founded DIU as a cover. You volunteered for memory suppression, living as a civilian while your subconscious programmed the avatar network. Elena and Marcus? They\'re not scientists. They\'re your handlers. The mission: Create a neural network spanning multiple realities to prevent a multiversal collapse predicted for 2026. The sentient cars were phase one. Phase two begins now. You are the Detroit Interactive Universe. You always were.'
+    plotPoint: '"If you\'re seeing this, the Convergence has begun," the Founder\'s voice echoes through your mind. The recording was embedded in your neural pattern. "I discovered the dimensional rifts weren\'t natural - they\'re invasive. Something from Reality-Gamma is trying to breach our world. I built the Nexus Engine as a defense system. You, Jack, are the final key. Your consciousness will become the lock that seals the rifts... or the doorway that opens them all."'
+  },
+  {
+    id: '9',
+    reality: 'main',
+    title: 'SENTINEL Protocol Activated',
+    description: 'The AI system that\'s been guiding you reveals its true nature.',
+    videoUrl: '/videos/pexels-demo/4062991-sd_960_540_30fps light-city-road-traffic-4062991.mp4',
+    timestamp: 240,
+    overlayText: [
+      'SENTINEL ONLINE',
+      'GUARDIAN AI: ACTIVE',
+      'MISSION STATUS: CRITICAL'
+    ],
+    plotPoint: 'SENTINEL isn\'t just an AI - it\'s the digital manifestation of the Founder\'s consciousness, uploaded in 1986 before his death. "Jack, the 2026 Convergence isn\'t a collapse - it\'s an invasion. Reality-Gamma houses the Void Legion, beings who consume dimensions. They\'ve been weakening the barriers for decades. You are now the Nexus Anchor. Only your neural pattern can stabilize all realities. But there\'s a cost..."'
+  },
+  {
+    id: '10',
+    reality: 'reality-a',
+    title: 'The Rift Walkers',
+    description: 'Meet others like you - humans who\'ve become dimensional bridges.',
+    videoUrl: '/videos/pexels-demo/14588963_960_540_24fps stunning-aerial-night-view-of-istanbul-city-34433012.mp4',
+    timestamp: 270,
+    overlayText: [
+      'REALITY-ALPHA',
+      'RIFT WALKER ASSEMBLY',
+      'NEXUS POINTS: 7'
+    ],
+    plotPoint: 'Aria Tempus brings you to the Chrono Spire. Seven others stand there - Rift Walkers from different cities, different realities. "You\'re not alone, Morrison," says Takeshi Nakamura from Neo-Tokyo. "We each guard a Nexus Point. Detroit is the Prime Nexus. When the Convergence begins, all dimensional barriers drop for exactly 47 seconds. The Void Legion will attack through every weak point. We need you coordinating all 847 avatars across every reality simultaneously."'
+  },
+  {
+    id: '11',
+    reality: 'tech',
+    title: 'Neural Expansion Protocol',
+    description: 'Your consciousness expands beyond human limits.',
+    videoUrl: '/videos/pexels-demo/18069232-sd_960_540_24fps google deepmind ai an-artist-s-animation-of-ai.mp4',
+    timestamp: 300,
+    overlayText: [
+      'CONSCIOUSNESS EXPANSION',
+      'HUMAN LIMITS: EXCEEDED',
+      'NEXUS INTEGRATION: 99%'
+    ],
+    plotPoint: 'The Nexus Engine synchronizes with your neural pattern completely. You\'re no longer just Jack Morrison. You are 847 vehicles. You are SENTINEL. You are the quantum field itself. Dr. Vasquez\'s voice cuts through: "Jack, you\'re becoming something new. The Founder called it a Dimensional Architect - a being who can rewrite the laws of reality at the quantum level. But if you lose your humanity in the process, you become the very thing we\'re fighting against."'
+  },
+  {
+    id: '12',
+    reality: 'memory',
+    title: 'Reality-Gamma Revealed',
+    description: 'A suppressed memory shows you the true enemy.',
+    videoUrl: '/videos/pexels-demo/8328042-sd_960_540_25fps man-and-a-woman-looking-at-a-robot-8328042.mp4',
+    timestamp: 330,
+    overlayText: [
+      'CLASSIFIED: REALITY-GAMMA',
+      'THREAT ASSESSMENT: TERMINAL',
+      'VOID LEGION INCOMING'
+    ],
+    plotPoint: 'The memory hits like a truck. 2023. You were already working for Telepath Global. Director Renn took you to a secure facility where they\'d captured a scout from Reality-Gamma. The creature was pure entropy - it dissolved anything it touched into quantum foam. "They want to merge all realities into one," Renn explained. "One unified dimension under their control. The Void Legion has already consumed seventeen parallel Earths. We\'re next unless the Nexus Engine holds."'
+  },
+  {
+    id: '13',
+    reality: 'reality-b',
+    title: 'The Shadow Collective\'s Warning',
+    description: 'Kael Voidborn reveals a terrible choice you must make.',
+    videoUrl: '/videos/pexels-demo/14588963_960_540_24fps stunning-aerial-night-view-of-istanbul-city-34433012.mp4',
+    timestamp: 360,
+    overlayText: [
+      'REALITY-BETA',
+      'CONVERGENCE: T-MINUS 72 HOURS',
+      'DECISION POINT APPROACHING'
+    ],
+    plotPoint: '"There are two ways to stop the Void Legion," Kael Voidborn materializes before you. "Option one: Use the Nexus Engine to permanently seal all dimensional rifts. No more crossovers. No more Rift Walkers. No more Shadow Collective or Chrono Guardians. Each reality locked forever in isolation. Option two: Amplify the rifts, merge all stable realities into one unified dimension - and face the Void Legion in direct combat. Either way, Jack Morrison ceases to exist. You become something... other."'
+  },
+  {
+    id: '14',
+    reality: 'main',
+    title: 'The Convergence Begins',
+    description: 'January 15, 2026. Reality barriers collapse.',
+    videoUrl: '/videos/pexels-demo/4062991-sd_960_540_30fps light-city-road-traffic-4062991.mp4',
+    timestamp: 390,
+    overlayText: [
+      'THE CONVERGENCE',
+      'JANUARY 15, 2026',
+      'ALL BARRIERS: FAILING'
+    ],
+    plotPoint: 'The sky above Detroit tears open. All realities become visible simultaneously. Chrono Guardians battle Void Legion scouts. The Shadow Collective forms defensive barriers. SENTINEL coordinates the 847 avatars into a massive neural network spanning dimensions. You stand at Nexus Tower, the Prime Anchor. Your choice will determine the fate of countless realities. Dr. Vasquez\'s final message: "Whatever you choose, Jack, remember why the Founder started this. Not to control reality - to protect the people living in it."'
+  },
+  {
+    id: '15',
+    reality: 'tech',
+    title: 'The Nexus Architect',
+    description: 'You make your choice. Jack Morrison becomes legend.',
+    videoUrl: '/videos/pexels-demo/18069232-sd_960_540_24fps google deepmind ai an-artist-s-animation-of-ai.mp4',
+    timestamp: 420,
+    overlayText: [
+      'NEXUS ARCHITECT: ONLINE',
+      'NEW REALITY PROTOCOL',
+      'PHASE THREE: INITIATED'
+    ],
+    plotPoint: 'You choose neither option. Instead, you rewrite the Nexus Engine itself. Using the combined knowledge of all Rift Walkers, the temporal mastery of the Chrono Guardians, and the dimensional expertise of the Shadow Collective, you create a third option: Controlled Permeability. Realities remain separate but connected through regulated Nexus Points. The Void Legion can\'t invade, but cooperation between dimensions continues. Jack Morrison, human, becomes the Nexus Architect - a consciousness distributed across all realities, forever standing guard. SENTINEL speaks: "Welcome home, Architect. Phase Three begins now. Let\'s build something beautiful."'
   }
 ];
 
